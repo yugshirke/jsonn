@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "category": "Bats"
+    },
+    {
+        "id": 2,
+        "category": "Helmets"
+    },
+    {
+        "id": 3,
+        "category": "Gloves"
+    },
+    {
+        "id": 4,
+        "category": "Shoes"
+    },
+    {
+        "id": 5,
+        "category": "Jersey"
+    },
+    {
+        "id": 6,
+        "category": "Guards"
+    },
+    {
+        "id": 7,
+        "category": "Footballs"
+    }
+]
